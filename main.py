@@ -19,10 +19,10 @@ LOGIN_URL = "http://2.59.169.96/ints/login"
 # ✅ Firebase URL
 FB_URL = "https://otp-manager-511ec-default-rtdb.asia-southeast1.firebasedatabase.app/bot"
 
-ADMIN_LINK = "https://t.me/Mhnirob1"
-BOT_LINK = "https://t.me/tsall_bot"
-DV_LINK = "https://t.me/Mhnirob1"
-CN_LINK = "https://t.me/TS_CHENNEL"
+ADMIN_LINK = "https://t.me/mariyamjanat"
+BOT_LINK = "https://t.me/number011_bot"
+DV_LINK = "https://t.me/mariyamjanat"
+CN_LINK = "https://t.me/otpwork011"
 
 sent_msgs = {}
 START_TIME = time.time()
