@@ -21,7 +21,7 @@ FB_URL = "https://otp-manager-511ec-default-rtdb.asia-southeast1.firebasedatabas
 
 ADMIN_LINK = "https://t.me/mariyamjanat"
 BOT_LINK = "https://t.me/number011_bot"
-DV_LINK = "https://t.me/mariyamjanat"
+DV_LINK = "https://t.me/Jk_kabir4884"
 CN_LINK = "https://t.me/otpwork011"
 
 sent_msgs = {}
